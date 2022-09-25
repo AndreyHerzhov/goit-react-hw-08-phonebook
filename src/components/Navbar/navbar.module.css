@@ -1,0 +1,16 @@
+.logo {
+    text-decoration: none;
+    color: rgb(95, 91, 214);
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.3s;
+    opacity: 0.6;
+}
+
+.logo:hover{
+    opacity: 1;
+    color: rgb(10, 35, 255);
+    text-shadow: 7px 5px 6px rgba(150, 150, 150, 1);
+}
+
+ 
