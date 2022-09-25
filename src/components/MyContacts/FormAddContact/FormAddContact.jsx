@@ -1,7 +1,6 @@
 import { initialState } from "./initialState";
 import useForm from "shared/hooks/useForm";
 import PropTypes from "prop-types"
-import { FormAdd } from "./FormAddContact.styled";
 import { InputGroup, Button, } from "react-bootstrap";
 import Form from 'react-bootstrap/Form';
 

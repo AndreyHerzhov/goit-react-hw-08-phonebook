@@ -1,16 +1,5 @@
 import styled from "styled-components";
-
-export const FormAdd = styled.form`
-    display: flex;
-    flex-direction: column;
-    padding: 20px;
-    width: 400px;
-    border: 1px solid grey;
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-    background-color: white;
-    border-radius: 20px;
-    
-`
+ 
 
 export const GroupWrapper = styled.div`
     display: flex;
